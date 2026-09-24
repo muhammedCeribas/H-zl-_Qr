@@ -1,1 +1,1 @@
-# Hizli_Qr  a
+# Hizli_Qr
